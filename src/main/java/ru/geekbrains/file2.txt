@@ -1,0 +1,7 @@
+src\main\java\ru\geekbrains\file.txt
+src\main\java\ru\geekbrains\file2.txt
+src\main\java\ru\geekbrains\Task001.java
+src\main\java\ru\geekbrains\Task002.java
+src\main\java\ru\geekbrains\Task003.java
+src\main\java\ru\geekbrains\Task004.java
+src\main\java\ru\geekbrains\Task005.java
